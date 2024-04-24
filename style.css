@@ -9,3 +9,22 @@
     margin: 0;
     padding: 0;
 }
+header {
+    background-image: url(./images/desktop/image-hero.jpg);
+    height: 100px;
+    padding: 200px;
+}
+header ul{
+
+}
+header a{
+    
+}
+main {
+    background-color: white;
+    height: 100px;
+}
+footer {
+    background-color: black;
+    height: 30px;
+}
