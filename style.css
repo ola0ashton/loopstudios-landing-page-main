@@ -30,9 +30,15 @@ header ul {
 header a {
      text-decoration: none;
      color: white;
+     display: block;
+     align-items: center;
 }
-.box {
-
+box{
+    border-radius: 10px white;
+    text-transform: uppercase;
+    border-color: white;
+    justify-content: left;
+    padding: 10px;
 }
 main {
     background-color: white;
