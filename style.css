@@ -11,14 +11,28 @@
 }
 header {
     background-image: url(./images/desktop/image-hero.jpg);
-    height: 100px;
-    padding: 200px;
+    height: 30vh;
+    padding: 150px;
+    background-position: center;
+    background-size: cover;
 }
-header ul{
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: -20vh;
+}
+header ul {
+    display: flex;
+    gap: 20px;
+    list-style: none;
+}
+header a {
+     text-decoration: none;
+     color: white;
+}
+.box {
 
-}
-header a{
-    
 }
 main {
     background-color: white;
