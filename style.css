@@ -33,13 +33,16 @@ header a {
      display: block;
      align-items: center;
 }
-header h2 {
+header p {
     border-radius: 10px white;
     text-transform: uppercase;
-    justify-content: left;
+    align-items: center;
+    justify-content: center\
+    ;
     padding: 10px;
     color: white;
-    
+    visibility: visible;
+    font-size: 2cm;
 }
 main {
     background-color: white;
