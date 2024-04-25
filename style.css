@@ -33,12 +33,13 @@ header a {
      display: block;
      align-items: center;
 }
-box{
+header h2 {
     border-radius: 10px white;
     text-transform: uppercase;
-    border-color: white;
     justify-content: left;
     padding: 10px;
+    color: white;
+    
 }
 main {
     background-color: white;
