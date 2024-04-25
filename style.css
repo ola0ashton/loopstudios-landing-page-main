@@ -11,8 +11,8 @@
 }
 header {
     background-image: url(./images/desktop/image-hero.jpg);
-    height: 30vh;
-    padding: 150px;
+    height: 70vh;
+    padding: 30px;
     background-position: center;
     background-size: cover;
 }
@@ -20,12 +20,13 @@ nav {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin: -20vh;
+    margin-left: 10vh;
 }
 header ul {
     display: flex;
     gap: 20px;
     list-style: none;
+    margin-right: 10vh;
 }
 header a {
      text-decoration: none;
@@ -34,15 +35,16 @@ header a {
      align-items: center;
 }
 header p {
-    border-radius: 10px white;
+    border-radius: 2px;
     text-transform: uppercase;
-    align-items: center;
-    justify-content: center\
-    ;
-    padding: 10px;
+    justify-content: center;
     color: white;
-    visibility: visible;
-    font-size: 2cm;
+    font-size: 3em;
+    width: 400px;
+    border: 1px solid white;
+    margin-top: 20vh;
+    margin-left: 10vh;
+
 }
 main {
     background-color: white;
